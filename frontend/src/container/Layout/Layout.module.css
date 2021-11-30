@@ -1,0 +1,27 @@
+.navLinks {
+  color: #000;
+  text-decoration: none;
+  display: block;
+  transition: all 0.2s ease-in-out;
+}
+
+.navLinks:hover {
+  font-weight: bold !important;
+  color: #fff !important;
+  background: #4051b5 !important;
+}
+
+.active {
+  font-weight: bold !important;
+  color: #fff !important;
+  background: #4051b5 !important;
+}
+
+.logoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  max-width: 40%;
+}

@@ -1,0 +1,28 @@
+.profileContainer {
+  max-width: 700px;
+  margin: 0 auto;
+  /* text-align: center; */
+}
+
+.profileMain {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+.profileAvatar {
+  width: 150px !important;
+  height: 150px !important;
+  margin: 0 auto;
+}
+
+.profileGrid {
+  margin-top: 1rem;
+}
+
+.gridItem {
+  display: flex;
+  align-items: center;
+}
+
+.gridItem span {
+  margin-left: 20px;
+}

@@ -1,0 +1,10 @@
+.addBtn {
+  color: #fff;
+  text-decoration: none;
+}
+
+.paginate {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+}
