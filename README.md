@@ -1,5 +1,9 @@
 # FSSR-Enrollment
 Enrollment System for FSSR
+ 
+# [Live](https://fssr.herokuapp.com/)
+  - Email: admin@example.com
+  - Password: 123456
 
 Install node.js https://nodejs.org/en/ 
 
